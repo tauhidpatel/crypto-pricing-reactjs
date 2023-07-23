@@ -1,6 +1,7 @@
 # Crypto Price Tracker with ReactJS
 
-[Crypto Price Tracker]
+[Crypto Price Tracker] 
+https://64452e5808020737a80bd576--darling-mooncake-536f85.netlify.app/
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,7 +19,8 @@ The Crypto Price Tracker is a ReactJS-based application designed to help users t
 ## Demo
 [Crypto Price Tracker Demo]
 
-Check out the live demo [here](link-to-live-demo)!
+Check out the live demo 
+https://64452e5808020737a80bd576--darling-mooncake-536f85.netlify.app/
 
 ## Features
 - Real-time cryptocurrency prices: Users can view real-time prices of multiple cryptocurrencies.
