@@ -10,8 +10,6 @@ https://64452e5808020737a80bd576--darling-mooncake-536f85.netlify.app/
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Crypto Price Tracker is a ReactJS-based application designed to help users track the prices of various cryptocurrencies. With real-time data and a user-friendly interface, this app empowers cryptocurrency enthusiasts to stay informed about the latest market trends and make informed decisions.
@@ -60,18 +58,4 @@ npm start
 - ReactJS
 - HTML5
 - CSS3
-- CoinGecko API (or any other crypto price API)
-
-## Contributing
-If you find any issues or want to add new features, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch with a descriptive name for your feature or bug fix.
-3. Make your changes and commit them with clear commit messages.
-4. Push your branch to your forked repository.
-5. Submit a pull request to the main repository, explaining the changes you've made.
-
-Appreciate your help in making the Crypto Price Tracker even better!
-
-## License
-This project is licensed under the [MIT License](link-to-license). Feel free to use, modify, and distribute it as per the terms of the license.
+- ](https://api.coinstats.app/public/v1/coins?skip=0) API
