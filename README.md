@@ -29,7 +29,7 @@ To run the Crypto Price Tracker locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone [https://github.com/your-username/crypto-price-tracker.git](https://github.com/Tauhid-Patel/crypto-pricing-reactjs.git)
+git clone (https://github.com/Tauhid-Patel/crypto-pricing-reactjs.git)
 ```
 
 2. Navigate to the project directory:
@@ -58,4 +58,4 @@ npm start
 - ReactJS
 - HTML5
 - CSS3
-- ](https://api.coinstats.app/public/v1/coins?skip=0) API
+- (https://api.coinstats.app/public/v1/coins?skip=0) API
