@@ -1,7 +1,5 @@
 # Crypto Price Tracker with ReactJS
-
-[Crypto Price Tracker] 
-https://64452e5808020737a80bd576--darling-mooncake-536f85.netlify.app/
+![image](https://github.com/Tauhid-Patel/crypto-pricing-reactjs/assets/43630196/9c53f13f-58be-4877-87b3-bdb88b55b48e)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -15,10 +13,7 @@ https://64452e5808020737a80bd576--darling-mooncake-536f85.netlify.app/
 The Crypto Price Tracker is a ReactJS-based application designed to help users track the prices of various cryptocurrencies. With real-time data and a user-friendly interface, this app empowers cryptocurrency enthusiasts to stay informed about the latest market trends and make informed decisions.
 
 ## Demo
-[Crypto Price Tracker Demo]
-
-Check out the live demo 
-https://64452e5808020737a80bd576--darling-mooncake-536f85.netlify.app/
+Check out the live demo [here](https://64452e5808020737a80bd576--darling-mooncake-536f85.netlify.app/)
 
 ## Features
 - Real-time cryptocurrency prices: Users can view real-time prices of multiple cryptocurrencies.
@@ -29,7 +24,7 @@ To run the Crypto Price Tracker locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone (https://github.com/Tauhid-Patel/crypto-pricing-reactjs.git)
+git clone (https://github.com/your-username/crypto-pricing-reactjs.git)
 ```
 
 2. Navigate to the project directory:
